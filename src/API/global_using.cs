@@ -1,0 +1,17 @@
+﻿global using System.Reflection;
+global using System.Text;
+global using System.Text.Json;
+global using API;
+global using Application;
+global using AutoMapper;
+global using Contract;
+global using Domain;
+global using FluentValidation;
+global using FluentValidation.AspNetCore;
+global using Infrastructure;
+global using Infrastructure.Dapper;
+global using MediatR;
+global using Microsoft.AspNetCore.Authorization;
+global using Microsoft.AspNetCore.Mvc;
+global using Microsoft.AspNetCore.SignalR;
+global using Serilog;

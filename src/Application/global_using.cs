@@ -1,0 +1,10 @@
+﻿global using System.Collections.Concurrent;
+global using System.Security.Claims;
+global using AutoMapper;
+global using Contract;
+global using Domain;
+global using Infrastructure;
+global using Microsoft.AspNetCore.Http;
+global using Microsoft.AspNetCore.SignalR;
+global using Microsoft.EntityFrameworkCore;
+global using Microsoft.Extensions.Logging;

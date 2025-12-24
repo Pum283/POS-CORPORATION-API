@@ -1,0 +1,16 @@
+﻿global using System.Collections.Concurrent;
+global using System.Data;
+global using System.Linq.Expressions;
+global using System.Reflection;
+global using AutoMapper;
+global using Contract;
+global using Domain;
+global using Microsoft.AspNetCore.Identity.Data;
+global using Microsoft.Data.SqlClient;
+global using Microsoft.EntityFrameworkCore;
+global using Microsoft.EntityFrameworkCore.Diagnostics;
+global using Microsoft.EntityFrameworkCore.Storage;
+global using Microsoft.Extensions.Configuration;
+global using Microsoft.Extensions.DependencyInjection;
+global using Microsoft.Extensions.Options;
+global using System.Linq.Dynamic.Core;
